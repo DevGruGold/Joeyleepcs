@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @Joeyleepcs
-- 👀 I’m interested in learning dev
-- 🌱 I’m learning Lovable.dev 
-- 💞️ I’m looking to collaborate on Github 
-- 📫 How to reach me https://blinq.me/TMrxpqGlzmEeEyvGecLJ
 
+# Joeyleepcs
 
-<!---
-Joeyleepcs/Joeyleepcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Project Description
+A personal project showcasing various programming and coding skills.
+
+## Features
+- Code snippets
+- Project showcases
+- Learning resources
+
+## Technology Stack
+Python, JavaScript, HTML
+
+## Installation
+Clone the repository and explore the various projects and code snippets.
+
+## Usage
+Use the resources to enhance your programming skills.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
